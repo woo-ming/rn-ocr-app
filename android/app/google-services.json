@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337637520745",
+    "firebase_url": "https://exocr-25df7.firebaseio.com",
+    "project_id": "exocr-25df7",
+    "storage_bucket": "exocr-25df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337637520745:android:cde972b93ea05118daf9f8",
+        "android_client_info": {
+          "package_name": "com.rnocrexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337637520745-lffjfpqfepoei2m9em0473g17dg07b0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmoMPKOCbs07GImUKBkLIHGGHd2M6BtuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337637520745-lffjfpqfepoei2m9em0473g17dg07b0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
